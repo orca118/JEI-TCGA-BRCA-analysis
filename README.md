@@ -1,4 +1,4 @@
-# Integrated Expression, Mutation, and Survival Analysis of Breast Cancer Using TCGA-BRCA
+# Integrated expression, mutation, and survival analysis of 17 key genes in breast cancer using TCGA-BRCA data
 
 This repository contains the R scripts used for the analyses and figures reported in our published research article:
 
